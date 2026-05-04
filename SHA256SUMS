@@ -1,0 +1,8 @@
+# Verified with The Rocq Prover 9.0.0 (OCaml 4.14.2) on Linux x86_64
+# Hashes cover the source, the kernel-checked .vo, and the enumerated data tables.
+
+0280f12d7f0f1f696482adc7e56bd2e98be2127642ba8cf2350232a0fee59f8f *Joint1324.v
+562ea26a7d3a8f7df6d2a43cd55b04c41fc1649f1b777e9c97028aa027c3d9f7 *Joint1324.vo
+f66d48b4a1796ce1309397e12a6510b97dc90fc41bfeaa60a0101ca3f836251b *data/marginal_triangle.tsv
+8d2761dd0b18c9f1b515cb1c3da62c37423471c7d82b86bbc07d02d93e839f51 *data/marginal_bfile.txt
+36e8064341ab903f7a906ad59ca34f76838c0533650cc4b2cb6f977c3c51c651 *data/joint_matrices.tsv
